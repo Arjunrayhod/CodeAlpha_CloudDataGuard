@@ -1,4 +1,6 @@
-# CloudDataGuard
+# CloudDataGua
+<img width="1912" height="978" alt="image" src="https://github.com/user-attachments/assets/6bc9bcf3-0e8d-4257-a80f-4e4b8ffd473f" />
+rd
 
 ### Cloud-Based Data Validation & Redundancy Management System
 
