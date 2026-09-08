@@ -1,6 +1,9 @@
-# CloudDataGua
+# CloudDataGuard
 <img width="1912" height="978" alt="image" src="https://github.com/user-attachments/assets/6bc9bcf3-0e8d-4257-a80f-4e4b8ffd473f" />
-rd
+----------------------------------------------------------------Project Flowchart-----------------------------------------------------------------------
+<img width="1536" height="1024" alt="project_Redundancy" src="https://github.com/user-attachments/assets/73ec9e15-8cc8-4f09-b8f7-28c0670864b3" />
+
+<img width="1374" height="1145" alt="expain_Redundancy" src="https://github.com/user-attachments/assets/c03f3d3a-6e0e-4c42-a59a-ffab45d7ebc9" />
 
 ### Cloud-Based Data Validation & Redundancy Management System
 
