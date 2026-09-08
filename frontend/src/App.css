@@ -531,3 +531,49 @@ tbody tr:hover {
     grid-template-columns: 1fr;
   }
 }
+
+.creator-section {
+  width: 88%;
+  max-width: 1200px;
+  margin: 40px auto 30px;
+  padding: 28px 20px;
+  border-top: 1px solid #e5e7eb;
+  text-align: center;
+}
+
+.creator-content h2 {
+  margin: 6px 0;
+  font-size: 22px;
+  color: #111827;
+}
+
+.creator-content p {
+  margin: 4px 0;
+  color: #6b7280;
+}
+
+.creator-label {
+  font-size: 13px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #2563eb !important;
+}
+
+.creator-links {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 16px;
+  flex-wrap: wrap;
+}
+
+.creator-links a {
+  color: #2563eb;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.creator-links a:hover {
+  text-decoration: underline;
+}

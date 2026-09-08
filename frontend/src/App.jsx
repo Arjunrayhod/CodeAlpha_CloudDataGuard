@@ -1471,24 +1471,47 @@ function App() {
 
     return renderDashboard();
   }
-
-
   return (
-
     <div className="app">
-
       {renderHeader()}
-
       {renderNavigation()}
 
       <main className="container">
-
         {renderPage()}
-
       </main>
 
-    </div>
+      <footer className="creator-section">
+        <div className="creator-content">
+          <p className="creator-label">Created By</p>
 
+          <h2>Arjun Rathod</h2>
+
+          <p>Cloud Computing / BCA Student</p>
+
+          <div className="creator-links">
+            <a
+              href="https://github.com/Arjunrayhod"
+              target="_blank"
+              rel="noreferrer"
+            >
+              GitHub
+            </a>
+
+            <a
+              href="https://www.linkedin.com/in/arjun-rathod-offical/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              LinkedIn
+            </a>
+
+            <a href="mailto:rathodarjun2513@gmail.com">
+              Email
+            </a>
+          </div>
+        </div>
+      </footer>
+    </div>
   );
 }
 
